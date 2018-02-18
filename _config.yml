@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://s0phie_bi.github.io"
+baseurl: "/s0phie_bi"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   s0phie_bi
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://sophie4869.github.io/s0phie_bi/gallery/"  
+  - JOURNAL: "https://sophie4869.github.io/s0phie_bi/journal/"
+  - ABOUT: "https://sophie4869.github.io/s0phie_bi/about/"
 
 # All translation keys
 translations:
