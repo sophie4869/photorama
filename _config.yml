@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://s0phie_bi.github.io"
-baseurl: "/s0phie_bi"
+url: "https://s0phi3.me"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sophie4869.github.io/s0phie_bi/gallery/"  
-  - JOURNAL: "https://sophie4869.github.io/s0phie_bi/journal/"
-  - ABOUT: "https://sophie4869.github.io/s0phie_bi/about/"
+  - GALLERY: "https://s0phi3.me/gallery/"  
+  - JOURNAL: "https://s0phi3.me/journal/"
+  - ABOUT: "https://s0phi3.me/about/"
 
 # All translation keys
 translations:
@@ -56,7 +56,7 @@ paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
+plugins: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
